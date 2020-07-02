@@ -1,0 +1,15 @@
+h1{color:blue}
+*{border:solid}
+.header{background-color: aqua;
+display: flex;
+justify-content: space-evenly;
+}
+
+.grid{display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.social{display: flex;
+justify-content: flex-end;
+}
